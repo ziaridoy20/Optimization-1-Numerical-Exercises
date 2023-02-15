@@ -1,0 +1,35 @@
+C:/Users/MdZiauddinRidoy/Documents/PycharmProjects/Gradient-Descent-for-Rosenbrock-Function/rosenbrock.py:48: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  ai = np.array(ai)
+
+# initialize a point
+    a = np.array([-.5, .2])
+
+[[array([1.07767719, 0.92670322]) 5.513734391213024]
+ [array([0.86642342, 0.98537444]) 5.525543349128981]
+ [array([1.07767719, 0.92670322]) 5.513734391213024]
+ [array([0.86642342, 0.98537444]) 5.525543349128981]
+ [array([1.07767719, 0.92670322]) 5.513734391213024]
+ [array([0.86642342, 0.98537444]) 5.525543349128981]
+ [array([1.07767719, 0.92670322]) 5.513734391213024]
+ [array([0.86642342, 0.98537444]) 5.525543349128981]
+ [array([1.07767719, 0.92670322]) 5.513734391213024]]
+the minimum is: 5.525543349128981 at point: [0.86642342 0.98537444]
+
+
+# initialize a point
+    a = np.array([-.12, .9])
+
+[[array([0.86642342, 0.98537444]) 5.525543349128981]
+ [array([1.07767719, 0.92670322]) 5.513734391213024]
+ [array([0.86642342, 0.98537444]) 5.525543349128981]
+ [array([1.07767719, 0.92670322]) 5.513734391213024]
+ [array([0.86642342, 0.98537444]) 5.525543349128981]
+ [array([1.07767719, 0.92670322]) 5.513734391213024]
+ [array([0.86642342, 0.98537444]) 5.525543349128981]
+ [array([1.07767719, 0.92670322]) 5.513734391213024]
+ [array([0.86642342, 0.98537444]) 5.525543349128981]]
+the minimum is: 5.513734391213024 at point: [1.07767719 0.92670322]
+
+
+
+
